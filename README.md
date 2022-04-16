@@ -8,7 +8,7 @@ lost and found web app that I made with Flask,and other extensions.
 <li>write posts</li>
 <li>show all posts</li>
 <li>follow/unfollow users</li>
-
+<br><br>
 
 <h4>😀 Tutorial & book I studied from</h4>
 1) tutorial website
