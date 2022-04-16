@@ -1,7 +1,16 @@
 # LostAndFound-Flask
 lost and found web app that I made with Flask,and other extensions.
+<br>
 
-Tutorial & book I studied from
+<h3>현재 구현 상황: </h3>
+<li>register</li> 
+<li>login</li>
+<li>write posts</li>
+<li>show all posts</li>
+<li>follow/unfollow users</li>
+
+
+<h4>😀 Tutorial & book I studied from</h4>
 1) tutorial website
 https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 2) book
